@@ -1,1 +1,3 @@
 G major
+
+G A B C D E F#
